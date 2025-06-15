@@ -1,2 +1,2 @@
 # YOLO
-YOLO detection model -- supported by ultralytics
+YOLO detection model -- supported by ultralytics https://github.com/ultralytics/ultralytics
